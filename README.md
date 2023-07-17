@@ -27,7 +27,7 @@ Your backend implemented in Node should call a mocked-out interface/endpoint for
 
 You should use the following tools to accomplish this task:
 
- - React or POJ
+ - React or POJ (plain old JavaScript)
  - Any React or JS library for functionality
  - Webpack (should run with webpack-dev-server)
  - Babel - ES6/7 Syntax - you pick the stages
