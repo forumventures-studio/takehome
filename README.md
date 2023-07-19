@@ -20,7 +20,6 @@ Your backend implemented in Node should call a mocked-out interface/endpoint for
  - [ ] View late invoices, or even better, alert when an invoice is late
  - [ ] Polish and UX
  - [ ] Highly reusable components
- - [ ] Tests
  - [ ] Hosted and Demoable
 
 ## Requirements
